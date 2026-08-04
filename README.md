@@ -45,7 +45,7 @@ Bitrix24, Trello, Excel, Google Sheets, Codex и другие AI-инструм�
 
 ## Контакты
 
-Открыт к ролям Product Manager, Product Owner и Product / Project Manager в B2B, marketplace, e-commerce и AI-enabled продуктах.
+Открыт к ролям Product Manager, Product Owner и Product / Project Manager. Особенно интересны задачи, связанные с Product Discovery, запуском MVP, развитием продукта, монетизацией и операционной эффективностью.
 
 - Telegram: [@DenRoks](https://t.me/DenRoks)
 - Email: [denproskur@mail.ru](mailto:denproskur@mail.ru)
