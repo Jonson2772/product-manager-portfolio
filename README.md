@@ -47,6 +47,8 @@ Bitrix24, Trello, Excel, Google Sheets, Codex и другие AI-инструм�
 
 Открыт к ролям Product Manager, Product Owner и Product / Project Manager в B2B, marketplace, e-commerce и AI-enabled продуктах.
 
-Контактные данные доступны в резюме, из которого вы перешли в это портфолио.
+- Telegram: [@DenRoks](https://t.me/DenRoks)
+- Email: [denproskur@mail.ru](mailto:denproskur@mail.ru)
+- GitHub: [@Jonson2772](https://github.com/Jonson2772)
 
 > Кейсы обезличены. Коммерчески чувствительные данные, персональные данные клиентов и внутренние документы не публикуются. Метрики приведены только там, где они подходят для публичного раскрытия.
